@@ -14,6 +14,8 @@ header {
 .logo {
     width: 250px;
     position: relative;
+    right: 20px;
+    transition: right 3s linear;
 }
 header h1{
     color: #60449B;
@@ -48,7 +50,7 @@ header h1{
 .nav-link1:hover {
     color: #60449B;
     transform: scale(1.5);
-    transition: all 3s linear;
+    transition: all 2s linear;
 }
 
 .nav-link2 {
@@ -63,7 +65,7 @@ header h1{
 .nav-link2:hover {
     color: #60449B;
     transform: scale(1.5);
-    transition: all 3s linear;
+    transition: all 2s linear;
 }
 
 .nav-link3 {
@@ -78,5 +80,5 @@ header h1{
 .nav-link3:hover {
     color: #60449B;
     transform: scale(1.5);
-    transition: all 3s linear;
+    transition: all 2s linear;
 }
