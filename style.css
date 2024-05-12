@@ -30,6 +30,13 @@ nav {
     justify-content: space-between;
 }
 
+nav img{
+    width: 20vh;
+    position: absolute;
+    left: 10px;
+    top: 20px;  
+}
+
 .nav-link1 {
     font-size: 60px;
     color: white;
