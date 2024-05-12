@@ -24,17 +24,17 @@ header h1{
     left: 71px;
     top: 20px;
 }
-nav {
+.nav {
     padding: 25px 100px 25px 95px;
     display: flex;
     justify-content: space-between;
 }
 
-nav img{
-    width: 20vw;
+.nav img{
+    width: 40vw;
     position: absolute;
     left: 10px;
-    top: 500px;  
+    top: 300px;  
 }
 
 .nav-link1 {
