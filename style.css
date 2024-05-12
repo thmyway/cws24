@@ -11,7 +11,18 @@ header {
     padding: 15px;
     margin-bottom: 20px;
 }
-
+.logo {
+    width: 250px;
+    position: relative;
+}
+header h1{
+    color: #60449B;
+    font-size: 16px;
+    font-style: bold italic;
+    position: absolute;
+    left: 65px;
+    top: 20px;
+}
 nav {
     padding: 25px 100px 25px 95px;
     display: flex;
@@ -39,8 +50,4 @@ nav {
     text-decoration: none;
     display: block;
     margin-top: 200px;
-}
-.logo {
-    width: 250px;
-    position: relative;
 }
