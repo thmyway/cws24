@@ -45,6 +45,12 @@ header h1{
     position: relative;
 }
 
+.nav-link1:hover {
+    color: #60449B;
+    transform: scale(1.5);
+    transition: all 3s linear;
+}
+
 .nav-link2 {
     font-size: 60px;
     color: white;
@@ -54,6 +60,12 @@ header h1{
     position: relative;
 }
 
+.nav-link2:hover {
+    color: #60449B;
+    transform: scale(1.5);
+    transition: all 3s linear;
+}
+
 .nav-link3 {
     font-size: 60px;
     color: white;
@@ -61,4 +73,10 @@ header h1{
     display: block;
     margin-top: 200px;
     position: relative;
+}
+
+.nav-link3:hover {
+    color: #60449B;
+    transform: scale(1.5);
+    transition: all 3s linear;
 }
