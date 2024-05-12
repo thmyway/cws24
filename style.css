@@ -30,7 +30,7 @@ nav {
     color: white;
     text-decoration: none;
     display: block;
-    top: 100px;
+    padding-top: 100px;
 }
 
 .nav-link3 {
@@ -38,7 +38,7 @@ nav {
     color: white;
     text-decoration: none;
     display: block;
-    top: 200px;
+    margin-top: 200px;
 }
 .logo {
     width: 250px;
